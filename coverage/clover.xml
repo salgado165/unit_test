@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1622500801340" clover="3.2.0">
-  <project timestamp="1622500801341" name="All files">
-    <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2" elements="8" coveredelements="8" complexity="0" loc="6" ncloc="6" packages="1" files="2" classes="2"/>
-    <file name="substract.js" path="/workspace/unit_test/substract.js">
+<coverage generated="1622513904822" clover="3.2.0">
+  <project timestamp="1622513904822" name="All files">
+    <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1" elements="4" coveredelements="4" complexity="0" loc="3" ncloc="3" packages="1" files="1" classes="1"/>
+    <file name="celsiusToFarenheit.js" path="/workspace/unit_test/celsiusToFarenheit.js">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="1" type="stmt"/>
-      <line num="5" count="1" type="stmt"/>
-    </file>
-    <file name="sum.js" path="/workspace/unit_test/sum.js">
-      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <line num="1" count="2" type="stmt"/>
-      <line num="2" count="2" type="stmt"/>
-      <line num="5" count="2" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
