@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1622866913343" clover="3.2.0">
-  <project timestamp="1622866913343" name="All files">
+<coverage generated="1622867275906" clover="3.2.0">
+  <project timestamp="1622867275906" name="All files">
     <metrics statements="14" coveredstatements="14" conditionals="3" coveredconditionals="3" methods="3" coveredmethods="3" elements="20" coveredelements="20" complexity="0" loc="14" ncloc="14" packages="1" files="1" classes="1"/>
     <file name="ConvertTemperature.js" path="/workspace/unit_test/ConvertTemperature.js">
       <metrics statements="14" coveredstatements="14" conditionals="3" coveredconditionals="3" methods="3" coveredmethods="3"/>
