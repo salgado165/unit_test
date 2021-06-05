@@ -3,11 +3,11 @@ class temperature{
         this.valTemperature = valTemperature;
     }
 
-    celsiusToFarenheit(){
+    celsiusToFahrenheit(){
         return ((this.valTemperature * 1.8)+ 32);
     }
     
-    farenheitToCelsius(){
+    fahrenheitToCelsius(){
         return (this.valTemperature - 32) * (0.55);
     }
 }
