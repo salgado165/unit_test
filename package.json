@@ -19,8 +19,5 @@
   "homepage": "https://github.com/salgado165/unit_test#readme",
   "devDependencies": {
     "jest": "^27.0.4"
-  },
-    "jest": {
-    "testEnvironment": "node"
   }
 }
