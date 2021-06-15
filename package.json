@@ -4,7 +4,7 @@
   "description": "Sample unit test",
   "main": "substract.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --verbose"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "homepage": "https://github.com/salgado165/unit_test#readme",
   "devDependencies": {
     "jest": "^27.0.4"
+  },
+    "jest": {
+    "testEnvironment": "node"
   }
 }
