@@ -8,3 +8,7 @@ test('Convert Celsius to Fahrenheit', ()=>{
 test('Convert Fahrenheit to Celsius', ()=>{    
     expect(new temperature(32).fahrenheitToCelsius()).toBe(0);
 })
+
+test('type', ()=>{
+    expect(typeof new temperature(30).fahrenheitToCelsius()).toBe('string');
+})
